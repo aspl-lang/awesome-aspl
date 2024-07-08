@@ -11,6 +11,7 @@
   - [Note-taking](#note-taking)
 - [Libraries](#libraries)
   - [Discord Bots](#discord-bots)
+  - [Mathematics](#mathematics)
 - [Games](#games)
 - [Other](#other)
   - [Communities & Forums](#communities--forums)
@@ -34,6 +35,10 @@
 ### Discord Bots
 
 - [Ascord](https://github.com/aspl-lang/ascord) - A powerfull open-source discord bot framework written in ASPL
+
+### Mathematics
+
+- [Formath](https://github.com/aspl-lang/formath) - Formath is a simple parser and evaluator for mathematical expressions
 
 ## Games
 
